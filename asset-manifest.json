@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TCO/static/css/main.51b0256b.css",
+    "main.js": "/TCO/static/js/main.629ee04c.js",
+    "index.html": "/TCO/index.html",
+    "main.51b0256b.css.map": "/TCO/static/css/main.51b0256b.css.map",
+    "main.629ee04c.js.map": "/TCO/static/js/main.629ee04c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51b0256b.css",
+    "static/js/main.629ee04c.js"
+  ]
+}
